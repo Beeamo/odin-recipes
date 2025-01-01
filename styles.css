@@ -28,3 +28,23 @@ p {
     color: beige;
 
 }
+
+.center {
+    display: block;
+    text-align: center;
+    margin: auto auto;
+}
+
+.inline {
+    margin: 5px 25px;
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.showcase_image {
+    width: 200px;
+    height: auto;
+}
